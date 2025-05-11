@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Timer",
+    "description": "A simple timer extension.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": []
+  }
